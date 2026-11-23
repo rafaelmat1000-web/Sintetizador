@@ -1,0 +1,25 @@
+# Pastas de compilação do Quartus II
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+
+# Arquivos temporários/relatórios gerados
+*.rpt
+*.chg
+*.log
+*.htm
+*.eqn
+*.pin
+*.sof
+*.pof
+*.jdi
+*.smsg
+*.summary
+*.done
+*.qws
+*.bak
+*.ddb
+*.tdf
