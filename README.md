@@ -49,7 +49,7 @@ Quando nenhuma tecla está pressionada (`N == 0`), o contador é zerado e a saí
 
 1. Clone este repositório:
    ```bash
-   git clone URL_DO_REPOSITORIO.git
+   git clone https://github.com/rafaelmat1000-web/Sintetizador.git
    ```
 2. Abra o arquivo `sintetizador.qpf` no **Intel/Altera Quartus II**.
 3. Compile o projeto (**Processing > Start Compilation**) e grave o arquivo `.sof` gerado na placa DE2 pelo **Programmer** (as atribuições de pinos já estão configuradas no arquivo `sintetizador.qsf`).
